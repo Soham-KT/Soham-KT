@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 -->
 ![](https://komarev.com/ghpvc/?username=Soham-KT&style=flat&color=blue)
 
-<h1>
+<h1 align="center">
   Welcome to my GitHub Page
 </h1>
 <p>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWkyNW9zbHFxejlqNnA3dXc2aTh0ZjBlbDRta2U2d3gwM3VmNnBlcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TLb6ZdaRtnTUa5E58B/giphy.gif">
+  <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWkyNW9zbHFxejlqNnA3dXc2aTh0ZjBlbDRta2U2d3gwM3VmNnBlcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TLb6ZdaRtnTUa5E58B/giphy.gif">
 </p>
 
 Languages:
