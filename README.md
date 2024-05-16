@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <br>
 
 
-## ![image width="50px"](https://github.com/Soham-KT/Soham-KT/assets/115338084/5bc46b0c-16b6-4c4e-af9d-8262707a3da6) Tech Stack
+## ![image width="20px"](https://github.com/Soham-KT/Soham-KT/assets/115338084/5bc46b0c-16b6-4c4e-af9d-8262707a3da6) Tech Stack
 
 <image src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm1oaDZ3Y2c5eGhiYTZtZHBvdDc5and5eHU4MGR4d3NyOTh6NzZ1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TLb6ZdaRtnTUa5E58B/giphy.gif" align="right" width="350">
 </image>
