@@ -74,4 +74,7 @@ Fourms:
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDQ1bnhwcGg1bGVoYWlmMjZ0dHFqZTc5Z3J6N3N0YWQ0M3BnM2plYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ei9tageWEBF4OnMHhq/giphy.gif" width ="55"><b> Connect with me </b>
 
-[<image src="![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)"></image>](https://www.linkedin.com/in/soham-kothari-31a35a250/)
+<div>
+  [<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/avinash218/)
+  
+</div>
