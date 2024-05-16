@@ -77,9 +77,8 @@ Fourms:
 <div>
   <a href="https://www.linkedin.com/in/soham-kothari-31a35a250/"><img alt="Static Badge" src="https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsoham-kothari-31a35a250%2F?logo=linkedin&label=Soham">
 </a>
-  
+  <br>
 <a href="mailto:sohamkothariprof79@gmail.com"><img src="https://img.shields.io/badge/-sohamkothariprof79@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-
+  <br>
 <a href="https://www.instagram.com/soham_kt?igsh=dHZvNHpxc3ZnNzZm&utm_source=qr"><img src="https://img.shields.io/badge/-@soham_kt-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-  
 </div>
