@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F79305&vCenter=true&random=false&width=435&lines=Welcome+to+my+GitHub+Page)](https://git.io/typing-svg)
-
 <!--
 **Soham-KT/Soham-KT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,10 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://komarev.com/ghpvc/?username=Soham-KT&style=flat&color=blue)
-
-<p>
-  kdhbgskibgksgbsidlghbslidbsdklvbsklv
-</p>
 
 Languages:
 
