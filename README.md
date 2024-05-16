@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 -->
 ![](https://komarev.com/ghpvc/?username=Soham-KT&style=flat&color=blue)
 
+<h1>
+  Welcome to my GitHub Page
+</h1>
+<p>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWkyNW9zbHFxejlqNnA3dXc2aTh0ZjBlbDRta2U2d3gwM3VmNnBlcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TLb6ZdaRtnTUa5E58B/giphy.gif">
+</p>
+
 Languages:
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  	![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
