@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <br>
 
 
-## Tech Stack
+## <picture><img src = "https://icons8.com/icon/E7E69hWvTNs4/sheets" width = 50px></picture> Tech Stack
 
 <image src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm1oaDZ3Y2c5eGhiYTZtZHBvdDc5and5eHU4MGR4d3NyOTh6NzZ1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TLb6ZdaRtnTUa5E58B/giphy.gif" align="right" width="350">
 </image>
