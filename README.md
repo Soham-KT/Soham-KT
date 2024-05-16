@@ -27,13 +27,14 @@ Here are some ideas to get you started:
 
 <picture> <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWkyNW9zbHFxejlqNnA3dXc2aTh0ZjBlbDRta2U2d3gwM3VmNnBlcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TLb6ZdaRtnTUa5E58B/giphy.gif" width="250px">
 
-<br><br>
-
 - :school: I am a student at [International Institute of Professional Studies](https://iips.edu.in/) at [Devi Ahilya Vishwavidhyalaya](https://www.dauniv.ac.in/)
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
 <br>
+<br>
+<br>
+
 
 Languages:
 
