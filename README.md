@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 
 <h1 align="center">
   Welcome to my GitHub Page
+
+  
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C27&vCenter=true&random=false&width=575&lines=Python+%7C+C+%7C+C%2B%2B+%7C+Java;Data+Science+%7C+Machine+Learning+%7C+Deep+Learning;Bring+on+the+challenge" alt="Typing SVG" /></a>
 </h1>
 
