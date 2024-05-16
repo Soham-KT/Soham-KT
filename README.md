@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWkyNW9zbHFxejlqNnA3dXc2aTh0ZjBlbDRta2U2d3gwM3VmNnBlcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TLb6ZdaRtnTUa5E58B/giphy.gif" width="350">
+<picture> <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWkyNW9zbHFxejlqNnA3dXc2aTh0ZjBlbDRta2U2d3gwM3VmNnBlcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TLb6ZdaRtnTUa5E58B/giphy.gif" width="250px">
 
 <br><br>
 
