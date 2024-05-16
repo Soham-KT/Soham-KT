@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWkyNW9zbHFxejlqNnA3dXc2aTh0ZjBlbDRta2U2d3gwM3VmNnBlcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TLb6ZdaRtnTUa5E58B/giphy.gif" width="250px">
-
 - :school: I am a student at [International Institute of Professional Studies](https://iips.edu.in/) at [Devi Ahilya Vishwavidhyalaya](https://www.dauniv.ac.in/)
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
@@ -35,6 +33,9 @@ Here are some ideas to get you started:
 
 
 ## Tech Stack
+
+<image src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm1oaDZ3Y2c5eGhiYTZtZHBvdDc5and5eHU4MGR4d3NyOTh6NzZ1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TLb6ZdaRtnTUa5E58B/giphy.gif" align="right" width="350">
+</image>
 
 Languages:
 
