@@ -32,8 +32,7 @@ Here are some ideas to get you started:
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
 <br>
-<br>
-<br>
+
 
 
 Languages:
