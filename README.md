@@ -71,3 +71,5 @@ Fourms:
   </td>
 </tr>
 </table>
+
+## <img src="![image](https://github.com/Soham-KT/Soham-KT/assets/115338084/d214fe66-3761-4d18-85bd-20b5f749002a)" width ="25"><b> GitHub Stats </b>
