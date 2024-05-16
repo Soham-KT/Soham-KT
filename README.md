@@ -75,7 +75,7 @@ Fourms:
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDQ1bnhwcGg1bGVoYWlmMjZ0dHFqZTc5Z3J6N3N0YWQ0M3BnM2plYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ei9tageWEBF4OnMHhq/giphy.gif" width ="55"><b> Connect with me </b>
 
 <div>
-  <a href="https://www.linkedin.com/in/rafael-azizov-3612391b2/"><img src="https://img.shields.io/badge/-Rafael%20LInedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/soham-kothari-31a35a250/"><img src="https://img.shields.io/badge/-Rafael%20LInedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:rafael.jr077@gmail.com"><img src="https://img.shields.io/badge/-rafael.jr077@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   
 </div>
