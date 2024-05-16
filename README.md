@@ -79,6 +79,7 @@ Fourms:
 </a>
   
 <a href="mailto:sohamkothariprof79@gmail.com"><img src="https://img.shields.io/badge/-sohamkothariprof79@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+
 <a href="https://www.instagram.com/soham_kt?igsh=dHZvNHpxc3ZnNzZm&utm_source=qr"><img src="https://img.shields.io/badge/-@soham_kt-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
   
 </div>
